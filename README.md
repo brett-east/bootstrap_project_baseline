@@ -16,6 +16,8 @@ This base project has devDependencies for the following npm node modules. Node m
 * "gulp-concat": "^2.5.2"
 * "gulp-connect": "^2.2.0"
 * "gulp-if": "^1.2.5"
+* "gulp-imagemin": "^2.3.0"
+* "gulp-jsonminify": "^1.0.0"
 * "gulp-minify-html": "^1.0.0"
 * "gulp-uglify": "^1.1.0"
 * "gulp-util": "^3.0.4"
